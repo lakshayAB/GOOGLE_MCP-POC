@@ -1,0 +1,4 @@
+google-genai>=2.34
+google-auth-oauthlib>=1.2
+mcp>=2.3
+python-dotenv>=1.0

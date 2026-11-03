@@ -1,0 +1,19 @@
+# Secrets and credentials (never commit)
+.env
+.env.*
+!.env.example
+.google_token.json
+*token*.json
+client_secret*.json
+credentials*.json
+service-account*.json
+application_default_credentials.json
+*.pem
+*.key
+*.p12
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
